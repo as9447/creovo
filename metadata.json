@@ -1,0 +1,6 @@
+{
+  "name": "Creovo - منصة فيديوهات UGC الإعلانية والذكاء الاصطناعي",
+  "description": "احصل على فيديوهات إعلانية احترافية لمنتجك خلال 48 ساعة من نخبة صناع المحتوى والذكاء الاصطناعي مع نظام حماية الضمان المالي Escrow",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
